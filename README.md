@@ -8,7 +8,7 @@ I'm a budding developer with a keen interest in software development and open-so
 
 ## Skills & Technologies
 
-html,css,react,nodejs,django,git,docker,graphql,aws,linux,java,flutter,vue,redis,mysql,postgres,graphql,tailwind,flutter,spring,redis
+https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white 
 
 ## Top Projects
 
